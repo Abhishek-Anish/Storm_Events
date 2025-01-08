@@ -1,3 +1,5 @@
+Please note that the files are long due to the inclusion of detailed outputs for each record along with its corresponding predictions, ensuring thorough documentation and analysis traceability.
+
 ==============================================================================================================================
 
 CLIMATIC IMPACT AND WFO EFFIECIENCY ON USA STORM DYNAMICS - 2023
